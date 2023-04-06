@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd8374eb-b2d9-4649-b54f-5cdd8015f0fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Greedy/보물.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Greedy/주유소.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Greedy/회의실배정.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.주유소">
+  <component name="RunManager" selected="Application.test">
     <configuration name="두수비교하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJoon.조건문.두수비교하기" />
       <module name="coding_test_java" />
@@ -148,9 +149,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="coding_test_java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.주유소" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.두수비교하기" />
       </list>
     </recent_temporary>
