@@ -1,4 +1,4 @@
-package BaekJoon.조건문;
+package BaekJoon.ConditionalStatement;
 
 import java.util.Arrays;
 import java.util.Scanner;

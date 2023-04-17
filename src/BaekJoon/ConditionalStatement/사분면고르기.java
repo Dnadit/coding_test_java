@@ -1,4 +1,4 @@
-package BaekJoon.조건문;
+package BaekJoon.ConditionalStatement;
 
 import java.io.BufferedReader;
 import java.io.IOException;
