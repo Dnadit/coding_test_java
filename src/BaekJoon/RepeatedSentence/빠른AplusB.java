@@ -1,4 +1,4 @@
-package BaekJoon.반복문;
+package BaekJoon.RepeatedSentence;
 
 import java.io.*;
 import java.util.StringTokenizer;
