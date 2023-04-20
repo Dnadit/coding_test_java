@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 public class MemorizingKing {
-    public static int binarySearch(int start, int end, int target, int[] arr) {
+    private static int binarySearch(int start, int end, int target, int[] arr) {
         while (start <= end) {
             int mid = (end + start) / 2;
             if (arr[mid] == target)
