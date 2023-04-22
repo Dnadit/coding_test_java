@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd8374eb-b2d9-4649-b54f-5cdd8015f0fa" name="Changes" comment="">
-
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/RepeatedSentence/AplusB_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/RepeatedSentence/AplusB_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/Sorting/CoordinateCompression.java" afterDir="false" />
-
+    <list default="true" id="8e1e7639-c7f8-4fa7-8493-d0ac5d2535e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/ArrayOne/MaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/ArrayOne/MinMax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BaekJoon/Sorting/SortWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaekJoon/Sorting/SortWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,140 +35,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-
-    &quot;last_opened_file_path&quot;: &quot;D:/Yuhyun/coding_test_java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
-    &quot;git-widget-placeholder&quot;: &quot;SortingAlgorithms&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dlwhd/Desktop/Cookie/coding_test_java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
-
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-
       <recent name="BaekJoon.반복문" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AplusB_4">
-    <configuration name="AplusB_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.RepeatedSentence.AplusB_4" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.RepeatedSentence.*" />
-      <recent name="BaekJoon.Sorting" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.CoordinateCompression">
-    <configuration name="CoordinateCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sorting.CoordinateCompression" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortCoordinates (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sorting.SortCoordinates" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortCoordinates (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sorting.SortCoordinates" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortCoordinates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sorting.SortCoordinates" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortCoordinates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sorting.SortCoordinates" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortCoordinates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sorting.SortCoordinates" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortCoordinates_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sorting.SortCoordinates_2" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sorting.SortWords" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MaxValue">
     <configuration name="AplusB_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJoon.RepeatedSentence.AplusB_5" />
       <module name="coding_test_java" />
@@ -186,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.RepeatedSentence.Main" />
+    <configuration name="LessThanX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.LessThanX" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.RepeatedSentence.*" />
+          <option name="PATTERN" value="BaekJoon.ArrayOne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,12 +80,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="보물" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Greedy.보물" />
+    <configuration name="MaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.MaxValue" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.Greedy.*" />
+          <option name="PATTERN" value="BaekJoon.ArrayOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortCoordinates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sorting.SortCoordinates" />
+      <module name="coding_test_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.Sorting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortCoordinates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sorting.SortCoordinates" />
+      <module name="coding_test_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -305,16 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AplusB_4" />
+        <item itemvalue="Application.MaxValue" />
+        <item itemvalue="Application.LessThanX" />
         <item itemvalue="Application.AplusB_5" />
         <item itemvalue="Application.별찍기_2" />
         <item itemvalue="Application.별찍기_1" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CoordinateCompression" />
-        <item itemvalue="Application.SortWords" />
-        <item itemvalue="Application.SortCoordinates_2" />
-        <item itemvalue="Application.SortCoordinates (3)" />
-        <item itemvalue="Application.SortCoordinates (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -328,6 +230,9 @@
       <updated>1680169261414</updated>
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
