@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e1e7639-c7f8-4fa7-8493-d0ac5d2535e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/ArrayOne/MaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/ArrayOne/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/ArrayOne/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/ArrayOne/ChangeBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/ArrayOne/PutBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/ArrayOne/Remainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/ArrayOne/TurnOverBasket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/ArrayOne/WhoNotSubmit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +49,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,22 +58,9 @@
       <recent name="BaekJoon.반복문" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaxValue">
-    <configuration name="AplusB_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.RepeatedSentence.AplusB_5" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.RepeatedSentence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LessThanX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.LessThanX" />
+  <component name="RunManager" selected="Application.Average">
+    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.Average" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +72,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.MaxValue" />
+    <configuration name="ChangeBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.ChangeBall" />
+      <module name="coding_test_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.ArrayOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Remainder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.Remainder" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
@@ -106,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortCoordinates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Sorting.SortCoordinates" />
+    <configuration name="TurnOverBasket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.TurnOverBasket" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.Sorting.*" />
+          <option name="PATTERN" value="BaekJoon.ArrayOne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="주유소" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.Greedy.주유소" />
+    <configuration name="WhoNotSubmit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.WhoNotSubmit" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.Greedy.*" />
+          <option name="PATTERN" value="BaekJoon.ArrayOne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,50 +189,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="별찍기_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.RepeatedSentence.별찍기_1" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.RepeatedSentence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="별찍기_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.RepeatedSentence.별찍기_2" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.RepeatedSentence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxValue" />
-        <item itemvalue="Application.LessThanX" />
-        <item itemvalue="Application.AplusB_5" />
-        <item itemvalue="Application.별찍기_2" />
-        <item itemvalue="Application.별찍기_1" />
+        <item itemvalue="Application.Average" />
+        <item itemvalue="Application.TurnOverBasket" />
+        <item itemvalue="Application.Remainder" />
+        <item itemvalue="Application.WhoNotSubmit" />
+        <item itemvalue="Application.ChangeBall" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd8374eb-b2d9-4649-b54f-5cdd8015f0fa" name="Changes" comment="" />
+      <changelist id="8e1e7639-c7f8-4fa7-8493-d0ac5d2535e1" name="Changes" comment="" />
       <created>1680169261414</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680169261414</updated>
+      <workItem from="1682212740212" duration="8717000" />
     </task>
     <servers />
   </component>
@@ -242,6 +222,20 @@
           <line>26</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BaekJoon/ArrayOne/WhoNotSubmit.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BaekJoon/ArrayOne/Average.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="8" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
