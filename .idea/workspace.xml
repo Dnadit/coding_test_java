@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e1e7639-c7f8-4fa7-8493-d0ac5d2535e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/CharactersAndstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/AsciiCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/ConstantNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/Dial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/FindingAlphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/MeasureWordLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/NumberOfWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/RepeatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/SumOfNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,22 +61,9 @@
       <recent name="BaekJoon.반복문" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CharactersAndstrings">
-    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.Average" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.ArrayOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CharactersAndstrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.HandleString.CharactersAndstrings" />
+  <component name="RunManager" selected="Application.PrintSame">
+    <configuration name="ConstantNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.HandleString.ConstantNumber" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
@@ -80,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remainder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.Remainder" />
+    <configuration name="FindingAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.HandleString.FindingAlphabet" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.ArrayOne.*" />
+          <option name="PATTERN" value="BaekJoon.HandleString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TurnOverBasket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.TurnOverBasket" />
+    <configuration name="NumberOfWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.HandleString.NumberOfWords" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.ArrayOne.*" />
+          <option name="PATTERN" value="BaekJoon.HandleString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhoNotSubmit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.ArrayOne.WhoNotSubmit" />
+    <configuration name="PrintSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.HandleString.PrintSame" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.ArrayOne.*" />
+          <option name="PATTERN" value="BaekJoon.HandleString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="윤년" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.조건문.윤년" />
+    <configuration name="RepeatString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.HandleString.RepeatString" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.조건문.*" />
+          <option name="PATTERN" value="BaekJoon.HandleString.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CharactersAndstrings" />
-        <item itemvalue="Application.Average" />
-        <item itemvalue="Application.TurnOverBasket" />
-        <item itemvalue="Application.Remainder" />
-        <item itemvalue="Application.WhoNotSubmit" />
+        <item itemvalue="Application.PrintSame" />
+        <item itemvalue="Application.ConstantNumber" />
+        <item itemvalue="Application.NumberOfWords" />
+        <item itemvalue="Application.RepeatString" />
+        <item itemvalue="Application.FindingAlphabet" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680169261414</updated>
       <workItem from="1682212740212" duration="8717000" />
+      <workItem from="1682598000306" duration="2849000" />
     </task>
     <servers />
   </component>
