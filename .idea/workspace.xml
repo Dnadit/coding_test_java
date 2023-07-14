@@ -5,15 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e1e7639-c7f8-4fa7-8493-d0ac5d2535e1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/AsciiCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/ConstantNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/Dial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/FindingAlphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/MeasureWordLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/NumberOfWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/RepeatString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaekJoon/HandleString/SumOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/x만큼간격이있는n개의숫자.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/나누어떨어지는숫자배열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/나머지가1이되는수찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/두정수사이의합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/문자열내p와y의개수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/문자열을정수로바꾸기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/서울에서김서방찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/약수의합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/없는숫자더하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/음양더하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/자릿수더하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/자연수뒤집어배열로만들기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/정수내림차순으로배치하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/정수제곱근판별.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/제일작은수제거하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/짝수와홀수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/콜라츠추측.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/평균구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/하샤드수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers/lv1/핸드폰번호가리기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +58,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/works/coding_test_java&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,7 +73,20 @@
       <recent name="BaekJoon.반복문" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintSame">
+  <component name="RunManager" selected="Application.MultipleOfTwoNumbers">
+    <configuration name="알람시계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaekJoon.조건문.알람시계" />
+      <module name="coding_test_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaekJoon.조건문.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConstantNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BaekJoon.HandleString.ConstantNumber" />
       <module name="coding_test_java" />
@@ -75,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindingAlphabet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.HandleString.FindingAlphabet" />
+    <configuration name="MultipleOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.lv0.MultipleOfTwoNumbers" />
       <module name="coding_test_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaekJoon.HandleString.*" />
+          <option name="PATTERN" value="Programmers.lv0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,39 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="사분면고르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.조건문.사분면고르기" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.조건문.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="알람시계" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaekJoon.조건문.알람시계" />
-      <module name="coding_test_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BaekJoon.조건문.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultipleOfTwoNumbers" />
         <item itemvalue="Application.PrintSame" />
         <item itemvalue="Application.ConstantNumber" />
         <item itemvalue="Application.NumberOfWords" />
         <item itemvalue="Application.RepeatString" />
-        <item itemvalue="Application.FindingAlphabet" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +172,9 @@
       <updated>1680169261414</updated>
       <workItem from="1682212740212" duration="8717000" />
       <workItem from="1682598000306" duration="2849000" />
+      <workItem from="1689328545510" duration="323000" />
+      <workItem from="1689329210298" duration="157000" />
+      <workItem from="1689334052102" duration="722000" />
     </task>
     <servers />
   </component>
